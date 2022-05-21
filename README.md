@@ -20,9 +20,8 @@
 1. Put in `~/.zshrc`: `plugins=(git colored-man-pages zsh-syntax-highlighting zsh-autosuggestions pip tmux)`
 2. [Install fzf](https://github.com/junegunn/fzf)
 3. [Install ripgrep](https://github.com/BurntSushi/ripgrep)
-
-Worth taking a look into:
-[forgit](https://github.com/wfxr/forgit)
+4. [Install diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+5. [forgit](https://github.com/wfxr/forgit)
 
 ##### zshrc settings
 
