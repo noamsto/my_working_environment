@@ -15,6 +15,9 @@ if &term =~ '^tmux'
   execute "set <xRight>=\e[1;*C"
   execute "set <xLeft>=\e[1;*D"
   execute "set <cr>=OM"
+  " Fix Delete ↓
+  set backspace=indent,eol,start  " Fix delete
+  map [3;5~ <Del>
 endif
 
 " general stuff
